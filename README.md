@@ -6,7 +6,6 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.115.12-green)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-2.0.41-orange)
 ![Python](https://img.shields.io/badge/Python-3.9+-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
 
 </div>
 
@@ -76,7 +75,7 @@ REST API система управления библиотекой с испо�
 ### Docker (рекомендуется)
 ```bash
 # Клонирование репозитория
-git clone https://github.com/yourusername/library-management.git
+git clone https://github.com/irving2019/Library_API
 
 # Запуск с Docker Compose
 docker-compose up --build
@@ -164,7 +163,3 @@ uvicorn main:app --reload
 ## 🤝 Участие в проекте
 
 Мы приветствуем вклад в развитие проекта! Подробности в [CONTRIBUTING.md](CONTRIBUTING.md)
-
-## 📄 Лицензия
-
-MIT License - свободное использование и модификация
