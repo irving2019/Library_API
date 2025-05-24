@@ -426,7 +426,7 @@ uvicorn main:app --reload --host 0.0.0.0 --port 8000
 3. Отправьте пулл-реквест
 
 ### Связь с автором
-- Telegram: [@voldemarnif](https://t.me/voldemarnif)
+- Telegram: @voldemarnif
 - Email: vovapilip46@gmail.com
 
 ## 📄 Лицензия
